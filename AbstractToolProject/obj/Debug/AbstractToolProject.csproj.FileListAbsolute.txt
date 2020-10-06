@@ -1,0 +1,7 @@
+C:\Users\GL753VD\Documents\DAM3\accesDadesC#\projecte\AbstractToolProject\AbstractToolProject\bin\Debug\AbstractToolProject.exe.config
+C:\Users\GL753VD\Documents\DAM3\accesDadesC#\projecte\AbstractToolProject\AbstractToolProject\bin\Debug\AbstractToolProject.exe
+C:\Users\GL753VD\Documents\DAM3\accesDadesC#\projecte\AbstractToolProject\AbstractToolProject\bin\Debug\AbstractToolProject.pdb
+C:\Users\GL753VD\Documents\DAM3\accesDadesC#\projecte\AbstractToolProject\AbstractToolProject\obj\Debug\AbstractToolProject.csprojAssemblyReference.cache
+C:\Users\GL753VD\Documents\DAM3\accesDadesC#\projecte\AbstractToolProject\AbstractToolProject\obj\Debug\AbstractToolProject.csproj.CoreCompileInputs.cache
+C:\Users\GL753VD\Documents\DAM3\accesDadesC#\projecte\AbstractToolProject\AbstractToolProject\obj\Debug\AbstractToolProject.exe
+C:\Users\GL753VD\Documents\DAM3\accesDadesC#\projecte\AbstractToolProject\AbstractToolProject\obj\Debug\AbstractToolProject.pdb
